@@ -1,0 +1,9 @@
+---
+name: crystal.queue
+version: 0.0.0
+authors:
+- Anatoly Chernov <chertoly@gmail.com>
+targets:
+  crystal.queue:
+    main: src/bin/crystal.queue.cr
+crystal: ">= 1.20.3"
