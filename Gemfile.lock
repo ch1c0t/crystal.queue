@@ -1,5 +1,7 @@
-PATH
-  remote: ../../ruby/bgem
+GIT
+  remote: https://github.com/ch1c0t/bgem.git
+  revision: b2923939cc7b84e32ef1f8bff54a2a6808c0ffa9
+  branch: main
   specs:
     bgem (0.2.2)
       string-indent (~> 0.0.1)

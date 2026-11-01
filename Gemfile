@@ -1,5 +1,5 @@
 source 'https://rubygems.org'
 
 gem 'rake'
-gem 'bgem', path: "~/sources/ruby/bgem"
+gem 'bgem', github: 'ch1c0t/bgem', branch: 'main'
 gem 'rspec'
